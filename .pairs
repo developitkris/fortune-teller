@@ -1,0 +1,8 @@
+pairs:
+  # <initials>: <Firstname> <Lastname>[; <email-id>]
+  ew: Eric Wolfe
+  kh: Kristi Hwang
+email:
+  ew: eric@ericwolfe.net
+  kh: krsy3ii@yahoo.com
+  # no_solo_prefix: true
